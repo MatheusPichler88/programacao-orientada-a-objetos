@@ -1,0 +1,12 @@
+package Exercicio_2;
+
+public class Computador {
+	public String marca;
+	public String modelo;
+	public String tipo;
+	public double preco;
+	
+	public static void main(String[] args) {
+		
+	}
+}
