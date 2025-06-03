@@ -11,7 +11,7 @@ public class Triangulo {
 
     public void validarTriangulo() throws Exception{
         if(lado1+lado2<=lado3){
-            throw new IllegalAccessException("Valores informados não formaram um trinagulo valido!");
+            throw new MinhaExcecao("Valores informados não formaram um trinagulo valido!");
         }
         else {
             System.out.println("Triangulo formado");
