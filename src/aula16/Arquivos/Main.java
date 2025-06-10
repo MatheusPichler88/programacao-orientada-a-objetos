@@ -1,4 +1,4 @@
-package aula16;
+package aula16.Arquivos;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

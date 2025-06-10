@@ -1,6 +1,6 @@
 package aula16.Desafio;
 
-import aula16.Aluno;
+import aula16.Arquivos.Aluno;
 
 import java.util.ArrayList;
 import java.util.List;

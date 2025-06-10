@@ -1,4 +1,4 @@
-package aula16;
+package aula16.Arquivos;
 
 public class Aluno {
     private String nome;
